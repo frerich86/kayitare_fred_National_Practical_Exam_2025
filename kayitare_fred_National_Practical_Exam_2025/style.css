@@ -1,0 +1,12 @@
+form{
+    border: 1px solid #87ceeb;
+   width: 50%;
+   margin-left:25%;
+   padding: 12px;
+}
+.legend{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 12px;
+}
